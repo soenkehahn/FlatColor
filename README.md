@@ -1,3 +1,5 @@
+This is a fork for personal use. Inspired by https://github.com/tinted-theming/base16-gtk-flatcolor.
+
 # FlatColor 2.0
 This is a updated version of FlatColor by deviantfero, with rounded corners, some fixes and shadows. It was made to be hackable and simple. The colors can easily be changed by programs like wpgtk and pywal.
 
